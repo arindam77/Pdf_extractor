@@ -12,7 +12,10 @@ Some text but images as well
 only text
 • Libraries used to solve the problem:-
 
-PDFminer
-Pytesseract
-Pil
-Wand
+1.PDFminer
+
+2.Pytesseract
+
+3.Pil
+
+4.Wand
