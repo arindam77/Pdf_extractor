@@ -1,7 +1,7 @@
 # Pdf_extractor
 
 
-Problem Faced: Differintiate between image based pdfs and native pdfs and extracting text from all these files
+Problem Faced: Differentiate between image based pdfs and native pdfs and extracting text from all these files
 
 Solution:
 
