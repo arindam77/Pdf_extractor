@@ -7,9 +7,10 @@ Solution:
 
 On the basis of data exploration it was observed that a pdf document needs to be OCR-d when it has:-
 
-No text at all
-Some text but images as well
-only text
+1.No text at all
+2.Some text but images as well
+3.only text
+
 • Libraries used to solve the problem:-
 
 1.PDFminer
